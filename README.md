@@ -47,7 +47,7 @@ Predictions should be treated as advisory signals.
 - Oversimplification of complex behavior
 - Reduced explainability in Random Forest mode
 
-## Test Results
+## 💀 Test Results
 <img src="assets/TestResults.jpg" alt="Test Results">
 
 ## Human-in-the-Loop Triggers
@@ -129,7 +129,7 @@ pip install pandas scikit-learn pytest
 III. **Run app locally**
 streamlit run app.py
 
-V. **How To Run Tests**
+V. **💀How To Run Tests**
 pytest tests/
 pytest
 
