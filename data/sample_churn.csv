@@ -1,0 +1,9 @@
+tenure,monthly_charges,total_charges,contract_type,internet_service,churn
+1,85.5,85.5,month-to-month,Fiber,1
+12,55.2,662.4,one-year,DSL,0
+24,70.1,1682.4,two-year,Fiber,0
+3,95.0,285.0,month-to-month,Fiber,1
+36,45.0,1620.0,two-year,None,0
+6,80.0,480.0,month-to-month,DSL,1
+18,60.5,1089.0,one-year,Fiber,0
+2,99.0,198.0,month-to-month,Fiber,1
