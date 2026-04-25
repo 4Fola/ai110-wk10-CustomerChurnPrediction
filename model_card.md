@@ -1,4 +1,4 @@
-# 👉 [Model Card](model_card.md) | [AI Bill of Materials](AI_Bill_of_Materials.md) | [Read Me](readme.md) |
+# 👉 [Model Card](model_card.md) | [AI Bill of Materials](AI_Bill_of_Materials.md) | [Read Me](README.md) |
 
 # Model Card – Customer Churn Prediction AI
 
