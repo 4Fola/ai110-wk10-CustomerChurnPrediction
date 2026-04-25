@@ -2,10 +2,10 @@
 
 # Model Card – Customer Churn Prediction AI
 
+🧭 FULL PROJECT OVERVIEW (END‑TO‑END)
+
 🔹 Project Flow (High Level)
 Data → Validation → Model → Prediction → Risk → Explanation → Human Decision
-
-🧭 FULL PROJECT OVERVIEW (END‑TO‑END)
 
 🔹 What This Project Is
 An explainable AI system that predicts customer churn and guides human decision‑making, rather than replacing it.
