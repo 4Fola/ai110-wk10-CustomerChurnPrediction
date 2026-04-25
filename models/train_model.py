@@ -27,9 +27,9 @@ def encode_features(df: pd.DataFrame) -> pd.DataFrame:
 
 def split_data(df: pd.DataFrame):
     """
-    Split features and target.
+    Split features and target from an encoded dataframe.
     """
-    X = df[FEATURE_COLUMNS]
+    X = df.drop(columns=[TARGET_COLUMN])
     y = df[TARGET_COLUMN]
     return X, y
 
