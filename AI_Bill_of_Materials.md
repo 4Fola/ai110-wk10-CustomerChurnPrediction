@@ -1,4 +1,4 @@
-# AI Bill of Materials (AI-BOM)
+# 👉 [AI Bill of Materials (AI-BOM)](AI_Bill_of_Materials.md) | [Model Card](model_card.md) | [READ ME](readme.md) |
 
 ## Algorithms
 - Decision Tree Classifier
